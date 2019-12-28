@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://leo-312.github.io/</id>
     <title>Jamie Liu</title>
-    <updated>2019-12-27T03:30:39.035Z</updated>
+    <updated>2019-12-28T03:03:26.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://leo-312.github.io/"/>
     <link rel="self" href="https://leo-312.github.io//atom.xml"/>
@@ -35,7 +35,7 @@
         <updated>2019-12-26T08:49:04.000Z</updated>
         <content type="html"><![CDATA[<p>Orignally from <a href="https://twitter.com/naval?lang=en">Naval Ravikant</a></p>
 <p>First Sorted by <a href="https://podcastnotes.org/2019/12/09/naval-ravikant-2019/">PODCAST NOTES</a></p>
-<p>Second Sorted by me <a href="jamieliu.xyz">Jamie Liu</a></p>
+<p>Second Sorted by me <a href="https://jamieliu.xyz/">Jamie Liu</a></p>
 <hr>
 <h2 id="value-your-time">Value Your Time</h2>
 <ul>
@@ -72,31 +72,6 @@
 <p><strong>“People who live below their expectations, enjoy a freedom people who are busy upgrading their lifestyles can’t afford.”</strong></p>
 <ul>
 <li>Don’t keep upgrading your lifestyle every time you make more money – try to live below what you’re earning.</li>
-</ul>
-</li>
-</ul>
-<h2 id="break-addictions">Break Addictions</h2>
-<ul>
-<li>&quot;In a first-world society, success and failure is much more about how you control, manage, and break addictions than it is about going out and doing something.&quot;</li>
-</ul>
-<hr>
-<p><a href="http://paulgraham.com/vb.html">Supplementary：Life is Short by Paul Graham</a></p>
-<ul>
-<li>
-<p>&quot;One byproduct of technical progress is that things we like tend to become more addictive.&quot;</p>
-</li>
-<li>
-<p>&quot;We have to make a conscious effort to advoid addcitions - to stand outside ourselves and ask: <strong>is this how I want to be spending my time?</strong>&quot;</p>
-</li>
-<li>
-<p>&quot;As well as avoiding bullshit, one should actively seek out things that matter.&quot;</p>
-<ul>
-<li>
-<p>&quot;One heuristic for distinguishing stuff that matters is to ask yourself whether you'll care about it in the future.&quot;</p>
-</li>
-<li>
-<p>&quot;Fake stuff that matters usually has a sharp peak of seeming to matter. That's how it tricks you. The area under the curve is small, but its shape jabs into your consciousness like a pin.&quot;</p>
-</li>
 </ul>
 </li>
 </ul>
@@ -188,10 +163,35 @@
 <h3 id="heres-the-solution">Here's the Solution</h3>
 <ul>
 <li>
-<p>&quot; We are overexposed to everthing. The way to survive in modern society is to be an ascetic; it is to retreat from society. There's too much society everywhere you go. You have society in your phone, society in your pocket, society in you ears...It's socializing you and programming everyone. <strong>The one solution is to turn it off.</strong>&quot;</p>
+<p>&quot;We are overexposed to everthing. The way to survive in modern society is to be an ascetic; it is to retreat from society. There's too much society everywhere you go. You have society in your phone, society in your pocket, society in you ears...It's socializing you and programming everyone. <strong>The one solution is to turn it off.</strong>&quot;</p>
 </li>
 <li>
 <p>Socail Media: &quot;This is the desease of social media - everybody is getting their 5 seconds of fame and becoming a celebrity...but celebrities are the most miserable people in the world.&quot;</p>
+</li>
+</ul>
+<h2 id="aviod-addictions">Aviod Addictions</h2>
+<ul>
+<li>&quot;In a first-world society, success and failure is much more about how you control, manage, and break addictions than it is about going out and doing something.&quot;</li>
+</ul>
+<hr>
+<p><a href="http://paulgraham.com/vb.html">Supplementary：Life is Short by Paul Graham</a></p>
+<ul>
+<li>
+<p>&quot;One byproduct of technical progress is that things we like tend to become more addictive.&quot;</p>
+</li>
+<li>
+<p>&quot;We have to make a conscious effort to avoid addcitions - to stand outside ourselves and ask: <strong>is this how I want to be spending my time?</strong>&quot;</p>
+</li>
+<li>
+<p>&quot;As well as avoiding bullshit, one should actively seek out things that matter.&quot;</p>
+<ul>
+<li>
+<p>&quot;One heuristic for distinguishing stuff that matters is to ask yourself whether you'll care about it in the future.&quot;</p>
+</li>
+<li>
+<p>&quot;Fake stuff that matters usually has a sharp peak of seeming to matter. That's how it tricks you. The area under the curve is small, but its shape jabs into your consciousness like a pin.&quot;</p>
+</li>
+</ul>
 </li>
 </ul>
 ]]></content>
